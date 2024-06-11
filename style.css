@@ -3,3 +3,8 @@ header {
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.letra-color{
+    background:linear-gradient(to left, rgb(237, 89, 89),#d77de1, #96d8ee);-webkit-text-fill-color:transparent;
+    -webkit-background-clip: text;
+}
