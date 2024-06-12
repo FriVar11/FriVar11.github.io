@@ -15,3 +15,7 @@ header {
     /* Arriba - Derecha - Abajo - Izquierda */
     padding:5px 10px;
 }
+
+.img-proyecto{
+    width:100%;
+}
