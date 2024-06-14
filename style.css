@@ -10,12 +10,22 @@ header {
     -webkit-background-clip: text;
 }
 
-.bi-file-code{
-    font-size: 2rem;
+.icono-gigante{
+    font-size: 5rem;
     /* Arriba - Derecha - Abajo - Izquierda */
     padding:5px 10px;
 }
 
 .img-proyecto{
     width:100%;
+}
+
+.icono-contacto{
+    font-size:4rem;
+    color:black;
+    margin: 4px 8px;
+}
+
+#contacto{
+    height:80vh;
 }
