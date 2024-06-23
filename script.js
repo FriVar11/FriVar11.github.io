@@ -49,7 +49,6 @@ let typewriter = new Typewriter(app, {
 });
 
 typewriter
-    .pauseFor(7000)
     .typeString('Hello World!')
     .pauseFor(500)
     .deleteAll()
@@ -70,13 +69,13 @@ let typewriterDescription = new Typewriter(description, {
     deleteSpeed:5,
 });
 
-typewriterDescription
+/* typewriterDescription
     .typeString('Combino mi mente creativa con mis habilidades técnicas para dar vida a ideas innovadoras. Fuera de la pantalla, soy amante de los caballos, la adrenalina del patinaje y el aprendizaje continuo.')
     .pauseFor(100)
     .deleteAll()
     .typeString('Me encanta ayudar a los demás y estoy segura de que puedo ser un gran aporte a tu equipo.')
     .pauseFor(500)
-    .start();
+    .start(); */
 
  
     // init controller
