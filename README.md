@@ -12,7 +12,7 @@
 - Recibir Retroalimentación: Obtener comentarios constructivos para mejorar mis habilidades.<br>
 - Atraer Oportunidades: Mostrar mi trabajo a potenciales empleadores y clientes para buscar oportunidades profesionales.<br>
 Espero que este portafolio refleje mi pasión por el desarrollo web y mi compromiso con la calidad.</p>
-[Link al proyecto: https://miportafoliosofivargas.netlify.app/](https://miportafoliosofivargas.netlify.app/)
+[Link al proyecto:](https://miportafoliosofivargas.netlify.app/))
 <bg>
 
 ![Link al proyecto](portafolio.png)
